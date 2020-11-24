@@ -1,0 +1,19 @@
+.sidebar { 
+    flex: 0.2;
+}
+
+.sidebar > h4{ 
+    font-size: 15px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+.sidebar > hr{ 
+    height: 1px;
+    border: 0;
+    background-color: lightgray;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
